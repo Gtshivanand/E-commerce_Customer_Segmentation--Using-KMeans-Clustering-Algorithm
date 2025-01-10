@@ -109,3 +109,9 @@ I’d love to hear your thoughts, feedback, and suggestions! Feel free to connec
 
 Looking forward to connecting and exchanging ideas!
 
+# # ✨ Support this project!
+If you found this project helpful or interesting, please consider giving it a ⭐ on GitHub!
+Your support helps keep the project active and encourages further development.
+
+Thank you for your support! 💖
+
